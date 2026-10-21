@@ -259,6 +259,7 @@ We tested the *mechanism* Flatt Security pointed to — not the vulnerability:
 * Phoenix Security: https://phoenix.security/php-core-rce-cve-2026-109618-109619-critical-remote-code-execution/
 * PHP manual — Session Upload Progress: https://www.php.net/manual/en/session.upload-progress.php
 * Red Hat RHSA-2026:22143 · Rocky RLSA-2026:34354 · Debian DSA-6255-1 · Ubuntu USN-8564-1 (patch-latency data points)
+* PHP EOL Backports — Community security backports for PHP 5.6, 7.x, 8.0, 8.1 (CVE-2026-109618 / CVE-2026-109619): https://github.com/Anton-Barinov/php2shell-patches
 
 ## 11. Running it from ORBITRON
 
